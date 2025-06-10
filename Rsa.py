@@ -1,4 +1,4 @@
-''' RSA by priyanshu Rawat aka nigga_man'''
+''' RSA by priyanshu Rawat aka siroyasha'''
 import random
 class RSA:
     def __init__(self,message): # example message="hello world"
